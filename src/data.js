@@ -98,7 +98,7 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/Laravel.png";
+import Proyek1 from "/assets/proyek/laravel.png";
 //import Proyek2 from "/assets/proyek/proyek2.webp";
 //import Proyek3 from "/assets/proyek/proyek3.webp";
 //import Proyek4 from "/assets/proyek/proyek4.webp";
@@ -109,7 +109,7 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Laravel",
+    nama: "Laravel Auth",
     desk: "Project ini merupakan implementasi sistem autentikasi pengguna menggunakan framework Laravel.",
     tools: ["HTML", "CSS", "Javascript"],
     dad: "200",
