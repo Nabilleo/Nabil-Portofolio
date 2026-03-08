@@ -1,7 +1,9 @@
 import HeroImage from "/assets/hero-img.jpeg";
+import Favicon from "/assets/favicon.png";
 
 const Image = {
   HeroImage,
+  Favicon,
 };
 
 export default Image;
